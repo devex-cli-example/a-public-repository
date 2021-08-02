@@ -1,0 +1,3 @@
+[submodule "another-public-repository"]
+	path = another-public-repository
+	url = https://github.com/devex-cli-example/another-public-repository
